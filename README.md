@@ -1,4 +1,4 @@
-# Hi there, I'm HADJ ARAB Adel 👋
+# Hi there, I'm **_HADJ ARAB Adel_** 👋
 
 I'm a passionate Full Stack Developer with a primary focus on front-end development using **Next.js, React, TypeScript, and Express**.
 
@@ -7,7 +7,6 @@ I'm a passionate Full Stack Developer with a primary focus on front-end developm
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL, Oracle
 - **Other Tools:** Docker, Zod, React-Query, Zustand, shadcn, Framer Motion (currently learning animations)
-- **Other Languages** : C, Java, Python, Javascipt, Typescipt
 
 ## 🛠️ What I'm Currently Working On
 
@@ -25,6 +24,6 @@ I'm a passionate Full Stack Developer with a primary focus on front-end developm
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/adel-hb-68139925a)
+- [LinkedIn](https://www.linkedin.com/in/adel-hb-68139925a)
 
 Thank you for visiting my profile!
