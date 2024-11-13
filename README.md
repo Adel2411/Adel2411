@@ -25,5 +25,6 @@ I'm a passionate Full Stack Developer with a primary focus on front-end developm
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/adel-hb-68139925a)
+- hadjarabadel.2411@gmail.com
 
 Thank you for visiting my profile!
