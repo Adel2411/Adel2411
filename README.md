@@ -55,7 +55,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adel2411&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel2411&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel2411&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adel.2411&theme=tokyonight)
 
