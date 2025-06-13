@@ -4,9 +4,9 @@
 
 ---
 
-![Home Page GIF](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+<!-- ![Home Page GIF](https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif) -->
 
-<!--![Basketball GIF](https://i.pinimg.com/originals/a9/00/1a/a9001a534d34a6cb8bf8d6474c5b45ba.gif)-->
+![Basketball GIF](https://cdn.nba.com/manage/2024/03/edwards-dunk-240318.gif)
 
 ## 💼 Tech Stack
 
