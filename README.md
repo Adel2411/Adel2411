@@ -1,6 +1,6 @@
 # **HADJ ARAB Adel** 👋
 
-> Full Stack Developer specializing in Next.js, React, TypeScript & Express
+> Full Stack Developer and Frontend Engineer specializing in Next.js & Node.js with TypeScript. Passionate about building scalable web applications and creating seamless user experiences.
 
 ---
 
@@ -39,26 +39,13 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-## 🔧 Current Projects
-
-- Enhancing my **next-platter CLI Tool** for scaffolding Next.js projects
-- Building a **compiler in Rust**
-- Building a **WebSocket-based chat app** with Next.js and Express
-
-## 🌟 Goals
-
-- Advanced **animation expertise** with Framer Motion
-- Integrating **AI/ML** capabilities into web apps
-- Strengthening **application security**
-- Expanding **testing knowledge** beyond E2E testing
-
 ## 📊 GitHub Activity
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adel2411&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel2411&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adel.2411&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adel2411&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📫 Connect
 
