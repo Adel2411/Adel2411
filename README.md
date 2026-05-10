@@ -43,6 +43,8 @@
 
 ## GitHub Activity
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adel2411&theme=tokyonight)](https://git.io/streak-stats)
+
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adel2411&show_icons=true&theme=tokyonight) -->
 
 ![My GitHub Stats](https://github-flex.vercel.app/api/stats?username=Adel2411&theme=tokyonight)
@@ -50,8 +52,6 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel2411&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook) -->
 
 ![Top Languages](https://github-flex.vercel.app/api/languages?username=Adel2411&theme=tokyonight&exclude=Jupyter%20Notebook&langs_count=2)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adel2411&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Contact me
 
